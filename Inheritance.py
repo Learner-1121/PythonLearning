@@ -39,3 +39,6 @@ print(a.isEmployee())
 a.display()
 a.details()
 
+#added new comment 202404091454
+
+
